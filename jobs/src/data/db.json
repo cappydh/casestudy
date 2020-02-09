@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "positionName": "Software Engineer",
+      "companyName": "Kariyer.net",
+      "imgUrl": "link will be here",
+      "countryName": "Turkey",
+      "cityName": "İstanbul",
+      "townName": "Ümraniye",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey"
+    },
+    {
+      "id": 2,
+      "positionName": "Software Developer",
+      "companyName": "Amazon.com",
+      "imgUrl": "link will be here",
+      "countryName": "USA",
+      "cityName": "California",
+      "townName": "San Francisco",
+      "address": "Silicon Valley"
+    },
+    {
+      "id": 3,
+      "positionName": "Software Team Leader",
+      "companyName": "Google.com",
+      "imgUrl": "link will be here",
+      "countryName": "Germany",
+      "cityName": "Berlin",
+      "townName": "Amalienhof",
+      "address": "Somewhere in Berlin idk"
+    }
+  ]
+}

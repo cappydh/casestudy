@@ -1,0 +1,14 @@
+.home {
+  height: calc(100vh - 52px);
+  align-items: center;
+  display: flex;
+}
+
+.welcome-text {
+  padding-bottom: 30px;
+  font-size: 42px;
+}
+
+.jobs-button {
+  font-size: 22px;
+}

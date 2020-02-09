@@ -1,0 +1,29 @@
+.container {
+  background-color: f4f4f4;
+}
+
+.header {
+  background-color: #f8f8ff;
+  border-bottom: solid #8f2f9f 2px;
+}
+
+.header-logo {
+  padding-right: 200px !important;
+}
+
+.nav li {
+  margin: auto;
+}
+
+.nav li a {
+  color: #8f2f9f;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav li a:hover {
+  color: #b55ac9;
+  transition: all 0.2s ease-in-out;
+}
